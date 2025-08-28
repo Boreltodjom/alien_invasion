@@ -13,10 +13,3 @@ The player controls a ship and must shoot down alien fleets as they descend.
 ## 🛠️ Tech Stack
 - Python
 - Pygame library
-
-## ⚡ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone <your-repo-url>
-cd alien-invasion
